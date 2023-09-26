@@ -16,8 +16,6 @@ or,
 - Express.js
 - UUID.js for unique note id
 - Json for db
-  
-## Video Walkthrough
 
 ## License
 This project is licensed using the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
