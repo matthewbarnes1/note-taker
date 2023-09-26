@@ -7,7 +7,7 @@
 - Forget about your notes? No problem, once saved, theyll 'stick'!
 
 ## How-to use 
-- Simply go to the deployed Heroku site here:
+- Simply go to the deployed Heroku site here: [simple-note-taker](https://simple-note-taker1-2eeca1981c2c.herokuapp.com/)
 or,
 - Download / fork Git repo, and run on localhost using node environment
 
